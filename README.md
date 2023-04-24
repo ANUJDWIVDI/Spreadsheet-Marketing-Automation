@@ -1,6 +1,7 @@
 # 🚀 Spreadsheet Marketing Automation
 
 A simple Google Apps Script to automate your email marketing campaigns using data from a Google Spreadsheet.
+By: [@anuj_dwivedi](https://linktr.ee/anuj_dwivedi)
 
 ## 📝 Description
 
@@ -36,6 +37,14 @@ Some possible future enhancements to this project include:
 - Adding support for attachments in the marketing emails
 - Creating a web app for the email marketing campaign with a customizable UI
 - Integrating with a CRM tool to automate lead generation and follow-up
+
+
+## Links 🔗
+
+[LinkTree](https://linktr.ee/anuj_dwivedi)
+[LinkedIn](https://www.linkedin.com/in/anuj-dwivedi-1352831b1/)
+[Instagram](https://www.instagram.com/anuj_dwvd_0/)
+
 
 ## 📝 License
 
