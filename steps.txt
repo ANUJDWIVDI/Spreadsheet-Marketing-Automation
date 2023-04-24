@@ -1,0 +1,30 @@
+📋 Step-by-step instructions for setting up your Spreadsheet Marketing Automation script 🚀
+
+Create a new Google Sheets spreadsheet 📝
+
+> Go to Google Drive and click "New" -> "Google Sheets".
+ Give your spreadsheet a name and add columns for the email addresses you want to target in your marketing campaign.
+ Note the ID of your spreadsheet, which can be found in the URL (e.g. https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/edit).
+ Create a new Google Apps Script project 💻
+
+> Open the Script Editor in your Google Sheets spreadsheet by clicking "Tools" -> "Script editor".
+ Create a new Apps Script project by clicking "File" -> "New project".
+ Give your project a name and paste the code from the src/main.gs file in this repository into the Script Editor.
+ Update the script with your spreadsheet ID and marketing message 📨
+
+> Replace the SPREADSHEET_ID placeholder in the script with the actual ID of your spreadsheet.
+ Replace the MESSAGE placeholder in the script with your own marketing message.
+ Save and run the script 🚀
+
+> Click "File" -> "Save" to save your changes to the script.
+ Click the "play" button in the toolbar to run the script.
+ Grant permission for the script to send emails on your behalf if prompted.
+ Check your email to confirm that the script successfully sent your marketing message to the targeted email addresses.
+ Automate your marketing campaign with a time-driven trigger ⏰
+
+> Click "Edit" -> "Current project's triggers" in the Script Editor.
+ Click the "Add Trigger" button to create a new trigger.
+ Choose a time-driven trigger that fits your marketing campaign schedule (e.g. daily, weekly, monthly).
+ Save the trigger and verify that it's enabled.
+ 
+ That's it! Your Spreadsheet Marketing Automation script is now set up and ready to help you reach your target audience with ease. 🎉
